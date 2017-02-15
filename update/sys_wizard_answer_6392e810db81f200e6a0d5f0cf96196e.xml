@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Employee Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Employee Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">83fa027395021200440785b530adb6d4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-15 20:15:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6392e810db81f200e6a0d5f0cf96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Request</sys_name>
+        <sys_package display_value="BP3 Watson Demo" source="x_bp3g_watson_demo">0149bd0adbec3200e6a0d5f0cf9619ee</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BP3 Watson Demo">0149bd0adbec3200e6a0d5f0cf9619ee</sys_scope>
+        <sys_update_name>sys_wizard_answer_6392e810db81f200e6a0d5f0cf96196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-15 20:15:12</sys_updated_on>
+        <table/>
+        <target_url>x_bp3g_watson_demo_employee_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

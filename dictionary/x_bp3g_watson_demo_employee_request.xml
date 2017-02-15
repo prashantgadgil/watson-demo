@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Employee Request" max_length="40" name="x_bp3g_watson_demo_employee_request" type="collection">
+        <element label="Incident Created" max_length="32" name="incident_created" reference="incident" type="reference"/>
+        <element label="Request Text" max_length="4000" name="request_text" type="string"/>
+        <element label="Watson Class" max_length="300" name="watson_class" type="string"/>
+    </element>
+</database>

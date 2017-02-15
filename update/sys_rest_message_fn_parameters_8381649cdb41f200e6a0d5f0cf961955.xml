@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>text</name>
+        <rest_message_function display_value="Default GET">06ee9c5cdb41f200e6a0d5f0cf961961</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-15 20:10:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8381649cdb41f200e6a0d5f0cf961955</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>text</sys_name>
+        <sys_package display_value="BP3 Watson Demo" source="x_bp3g_watson_demo">0149bd0adbec3200e6a0d5f0cf9619ee</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BP3 Watson Demo">0149bd0adbec3200e6a0d5f0cf9619ee</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_8381649cdb41f200e6a0d5f0cf961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-15 20:40:37</sys_updated_on>
+        <type>xml</type>
+        <value>feeling%20down</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
