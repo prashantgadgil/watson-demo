@@ -5,41 +5,55 @@
             <element>request_text</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-15 20:43:46</sys_created_on>
-            <sys_id>02296454db81f200e6a0d5f0cf96192f</sys_id>
+            <sys_created_on>2017-02-17 14:15:20</sys_created_on>
+            <sys_id>a363edf0db853600e6a0d5f0cf9619f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Request" display_value="Employee Request" name="x_bp3g_watson_demo_employee_request" sys_domain="global" view="Default view">35296454db81f200e6a0d5f0cf961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-15 20:43:46</sys_updated_on>
+            <sys_updated_on>2017-02-17 14:15:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_image</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-17 14:15:20</sys_created_on>
+            <sys_id>2763edf0db853600e6a0d5f0cf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Request" display_value="Employee Request" name="x_bp3g_watson_demo_employee_request" sys_domain="global" view="Default view">35296454db81f200e6a0d5f0cf961911</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-17 14:15:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>watson_class</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-15 20:43:46</sys_created_on>
-            <sys_id>82296454db81f200e6a0d5f0cf96192f</sys_id>
+            <sys_created_on>2017-02-17 14:15:20</sys_created_on>
+            <sys_id>a763edf0db853600e6a0d5f0cf9619f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Request" display_value="Employee Request" name="x_bp3g_watson_demo_employee_request" sys_domain="global" view="Default view">35296454db81f200e6a0d5f0cf961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-15 20:43:46</sys_updated_on>
+            <sys_updated_on>2017-02-17 14:15:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>incident_created</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-15 20:43:46</sys_created_on>
-            <sys_id>06296454db81f200e6a0d5f0cf96192f</sys_id>
+            <sys_created_on>2017-02-17 14:15:20</sys_created_on>
+            <sys_id>2b63edf0db853600e6a0d5f0cf9619f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Request" display_value="Employee Request" name="x_bp3g_watson_demo_employee_request" sys_domain="global" view="Default view">35296454db81f200e6a0d5f0cf961911</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-15 20:43:46</sys_updated_on>
+            <sys_updated_on>2017-02-17 14:15:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

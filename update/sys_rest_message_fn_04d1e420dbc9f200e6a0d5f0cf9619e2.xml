@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{"text":"${content}"}</content>
+        <function_name>POST</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Watson Classifier REST Call [ POST ]</qualified_name>
+        <rest_endpoint>https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/f5bbbcx175-nlc-3885/classify</rest_endpoint>
+        <rest_message display_value="Watson Classifier REST Call">043e185cdb41f200e6a0d5f0cf96196c</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-16 14:51:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>04d1e420dbc9f200e6a0d5f0cf9619e2</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>POST</sys_name>
+        <sys_package display_value="BP3 Watson Demo" source="x_bp3g_watson_demo">0149bd0adbec3200e6a0d5f0cf9619ee</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BP3 Watson Demo">0149bd0adbec3200e6a0d5f0cf9619ee</sys_scope>
+        <sys_update_name>sys_rest_message_fn_04d1e420dbc9f200e6a0d5f0cf9619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-17 04:39:45</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
